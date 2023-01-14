@@ -1,9 +1,14 @@
 *{
     font-family: system-ui, system-ui, sans-serif;
-
+    margin: 0 auto;
+}
+/*achitects header*/
+.architects-container{
+    background-color: #FFF4E7;
 }
 .Main-header{
     display: flex;
+    padding: 15px;
     align-items: center;
     justify-content: space-around;
 }
@@ -13,11 +18,46 @@
     font-size: 13px;
 }
 .header h1{
-    font-size: 35px;
-    font-weight: 700px;
+    font-size: 30px;
+    font-weight: 400px;
 
 }
 /*second-section header*/
 .Group{
     text-align: center;
+    padding-top: 100px;
+
+}
+.Group p{
+    font-size: 11px;
+    padding-top:17px;
+    color: gray;
+    padding-bottom: 17px;
+}
+.Group h1{
+
+    font-size: 39px;
+    font-weight: 700px;
+    
+
+}
+.Group button{
+    border-radius: 6px;
+    color: white;
+    border: none;
+    background: #FF900E;
+    padding: 12px 15px;
+}
+/*banner-img*/
+.bannar-img img{
+    display: flex;
+    align-items: center;
+    width: 68%;
+    
+
+
+}
+.bannar-img{
+    padding-top: 25px;
+    padding-bottom: 30px;
 }
