@@ -130,7 +130,7 @@ span{
     padding-left: 187px;
 }
 .subs-img img{
-    width: 63%;
+    width: 62%;
     margin-left: 88px;
 }
 .mani-thim{
@@ -159,4 +159,18 @@ span{
 .sub-feature{
     padding-bottom: 10px;
     margin-left: 14x;
+}
+.btn-original{
+    
+    color: white;
+    border: none;
+    background: #FF900E;
+    padding: 35px 40px;
+    position:relative;
+    border-radius: 5px;
+    margin: -61px 4px 15px 35px;
+}
+.btn-original h4{
+    font-size: 40px;
+    font-weight: 700px;
 }
