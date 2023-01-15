@@ -112,3 +112,7 @@ span{
     padding-bottom: 16px;
     color: gray;
 }
+/*features plan part*/
+.feature-title{
+    border-left: 3px solid #FF900E;
+}
