@@ -248,3 +248,20 @@ span{
     padding-bottom: 10px;
 }
 /*google part*/
+.main-sponser{
+    display: flex;
+    margin: 29px 85px;
+}
+
+/*footer-part degin*/
+.footer-reserved{
+    text-align: center;
+    background: #FFF4E7;
+    padding: 5px;
+    padding: 20px;
+    width: 1016px;
+    border-radius: 3px;
+}
+footer{
+    margin: 119px 0px;
+}
