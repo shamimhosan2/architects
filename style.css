@@ -36,12 +36,12 @@
 }
 .Group h1{
 
-    font-size: 39px;
+    font-size: 45px;
     font-weight: 700px;
     
 
 }
-.Group button{
+.btn-prime{
     border-radius: 6px;
     color: white;
     border: none;
@@ -54,10 +54,61 @@
     align-items: center;
     width: 68%;
     
+    
 
 
 }
 .bannar-img{
     padding-top: 25px;
     padding-bottom: 30px;
+}
+
+
+/*ouick list*/
+.imgage-thime{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 526px;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    margin-top: 5px;
+    
+    
+    
+}
+/*main-part*/
+.main-quick-list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 229px;
+    padding-top: 20px;
+    padding-right: 31px;
+}
+.sub-img{
+   padding-top: 10px;
+}
+ .sub-img img{
+    width:97%;
+    
+    
+    
+}
+.Quick-list-item{
+    padding-right: 100px;
+}
+.sub-title{
+    color: #FF900E;
+    padding-bottom: 5px;
+}
+.title{
+    color: gray;
+}
+span{
+    color: black;
+}
+.feature p{
+    font-size: 12px;
+    padding-bottom: 16px;
+    color: gray;
 }
