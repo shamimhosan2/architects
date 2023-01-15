@@ -97,7 +97,7 @@
 .Quick-list-item{
     padding-right: 100px;
 }
-.sub-title{
+.subs-title{
     color: #FF900E;
     padding-bottom: 5px;
 }
@@ -113,6 +113,50 @@ span{
     color: gray;
 }
 /*features plan part*/
+.mani-thim{
+    padding-top: 35px;
+}
 .feature-title{
     border-left: 3px solid #FF900E;
+}
+.dextops{
+    font-size: 10px;
+    color: gray;
+    padding-top: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 187px;
+}
+.subs-img img{
+    width: 63%;
+    margin-left: 88px;
+}
+.mani-thim{
+    padding-top: 80px;
+}
+.Desktop p{
+    font-size: 10px;
+}
+.feature-container{
+    padding: 5px;
+    margin-top: 
+    24px;
+}
+.Desktop{
+    margin-top: 29px;
+    box-shadow: 0px 0px 13px 5px #f9f9f9;
+    padding: 23px;
+    border-radius: 10px;
+    width: 286px;
+}
+.feature-title h1{
+    margin-left: 14px;
+    font-size: 30px;
+    
+}
+.sub-feature{
+    padding-bottom: 10px;
+    margin-left: 14x;
 }
